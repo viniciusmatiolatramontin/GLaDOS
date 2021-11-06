@@ -1,4 +1,4 @@
-package glados;
+package glados.model.entities;
 
 public class RandomFact {
 	private String id;
